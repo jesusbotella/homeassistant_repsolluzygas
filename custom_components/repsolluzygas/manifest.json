@@ -1,0 +1,9 @@
+{
+    "domain": "repsolluzygas",
+    "name": "Home Assistant Integration for Repsol Luz y Gas",
+    "documentation": "https://github.com/jesusbotella/homeassistant_repsolluzygas",
+    "issue_tracker": "https://github.com/jesusbotella/homeassistant_repsolluzygas/issues",
+    "codeowners": ["@jesusbotella"],
+    "requirements": []
+  }
+  
